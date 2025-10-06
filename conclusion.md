@@ -1,5 +1,6 @@
+[readme](README.md)
 # Conclusión
 ---
 Esta es la conclusion
 
-![conclusion](img/6863897.png)
+![conclusion](img/conclusion.png)
